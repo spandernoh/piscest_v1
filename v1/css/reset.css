@@ -1,0 +1,8 @@
+@charset "utf-8";
+
+a:link, a:visited { text-decoration:none; color:#666666; }
+a:hover, a:focus { color:#ff5419; }
+img { border:0 none; }
+li { list-style-type:none; }
+
+header, nav, article, section, aside, footer {display:block;}
